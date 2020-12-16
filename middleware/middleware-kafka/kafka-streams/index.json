@@ -6,7 +6,7 @@
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Quarkus extension for Kafka Streams",
         "text": "step1.md"
       },
       {

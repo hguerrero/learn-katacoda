@@ -22,6 +22,12 @@
       "description": "This scenario will show how Quarkus applications use Reactive Messaging with Apache Kafka"
     },
     {
+      "external_link": "https://learn.openshift.com/middleware/courses/middleware-kafka/kafka-streams",
+      "course_id": "kafka-streams",
+      "title": "Kafka Streams applications with Quarkus",
+      "description": "Create streaming applications using Quarkus Kafka Streams extension"
+    },
+    {
       "external_link": "https://learn.openshift.com/middleware/courses/middleware-kafka/kafka-debezium",
       "course_id": "kafka-debezium",
       "title": "Change data capture with Debezium",
